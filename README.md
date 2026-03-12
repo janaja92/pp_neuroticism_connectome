@@ -21,7 +21,7 @@ Here you can find the detailed materials for my project pipeline. Navigate throu
 * **`/integrated_sem`**: SEM (Structural Equation Modeling) results, outputs, and visualizations
 
 For a complete visual guide to the repository's logic - from raw data to final SEM results - see this Workflow Map:
-![Map of Materials](material_map.png)
+![Map of Materials](materials_map.png)
 (click to enlarge)
 
 ## 🛠️ Tools & Technologies
