@@ -9,6 +9,8 @@ This repository contains the more detailed workflow, pipelines, and supplementar
 This project utilizes the **Human Connectome Project** Young Adult dataset (2025 Release). Specifically, this project utilizes:
 - Resting State fMRI 3T Preprocessed (Recommended) neuroimaging data and
 - Restricted Access Behavioral Data (.csv)
+
+
 📝 Data Access
 To obtain these data, researchers must apply for access via the [HCP Restricted Access application](https://www.humanconnectome.org/study/hcp-young-adult/document/restricted-data-usage); once permissions are granted, the datasets can be accessed and downloaded through the [BALSA database](https://balsa.wustl.edu/).
 
@@ -21,6 +23,7 @@ Here you can find the detailed materials for my project pipeline. Navigate throu
 * **`/integrated_sem`**: SEM (Structural Equation Modeling) results, outputs, and visualizations
 
 For a complete visual guide to the repository's logic - from raw data to final SEM results - see this Workflow Map:
+
 ![Map of Materials](materials_map.png)
 (click to enlarge)
 
