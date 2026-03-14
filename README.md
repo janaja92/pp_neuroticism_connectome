@@ -59,6 +59,7 @@ Have **questions about the methodology or results**? Find the answers directly w
 - Which specific **models** were **tested**, and how did they perform compared to the final poster version? ➜ See `/measurement_models` 
 - Which specific **methods and parameters** were used for **functional connectivity** estimation? ➜ See `/brain_pipeline` 
 - On what basis were the **threshold densities** for the AUC integration chosen? ➜ See `/brain_pipeline` 
+- How **robust** are the final **SEM findings** when tested against single-predictor models? ➜ See `/integrated_sem`
 
 **Narrative Code**: All scripts and notebooks contain **explaining commentary** to guide you through the research logic. <br>
 **Execution Evidence**: Every step is documented in **Jupyter Notebooks**, allowing you to see the actual code execution and intermediate results. (For steps that required high-performance cluster computing (such as the brain pipeline), I have provided a **local demo** notebook so you can run a "lite" version of the workflow on your own machine.)
