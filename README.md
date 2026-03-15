@@ -75,6 +75,7 @@ To replicate this project from scratch, ensure you have first completed the [Dat
 **Recommended IDE**:
 It is highly recommended to run the notesbooks within VS Code using the Jupyter Extension for better management of the Conda kernel and rpy2 interface.
 
-
+## Acknowledgements
+Data were provided by the Human Connectome Project, WU-Minn Consortium (Principal Investigators: David Van Essen and Kamil Ugurbil; 1U54MH091657) funded by the 16 NIH Institutes and Centers that support the NIH Blueprint for Neuroscience Research; and by the McDonnell Center for Systems Neuroscience at Washington University.
 
 
